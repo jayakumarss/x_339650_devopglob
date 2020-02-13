@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_339650_devopglob_table",
+  "name": "x_339650_devopglob_table",
+  "operation": "delete",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-02-13 20:29:19",
+  "sys_id": "c38711c0db430010ab0a4870399619e0",
+  "sys_mod_count": 0,
+  "sys_name": "x_339650_devopglob_table",
+  "sys_package": "e68715ccdb030010ab0a48703996198a",
+  "sys_policy": null,
+  "sys_scope": "e68715ccdb030010ab0a48703996198a",
+  "sys_update_name": "sys_security_acl_c38711c0db430010ab0a4870399619e0",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-02-13 20:29:19",
+  "type": "record"
+}
