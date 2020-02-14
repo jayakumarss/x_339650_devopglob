@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-02-14 17:14:58">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<application_name>DevOpGlob</application_name>
+<application_scope>x_339650_devopglob</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevOpGlob - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>4a94b15cdb030010ab0a487039961994</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>79a4395cdb030010ab0a4870399619e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_8f8751c0db430010ab0a48703996193b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>DevOpGlob</name><order/><roles>x_339650_devopglob.user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8f8751c0db430010ab0a48703996193b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOpGlob</sys_name><sys_overrides/><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_ui_application_8f8751c0db430010ab0a48703996193b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>-2033963853</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>31a4395cdb030010ab0a4870399619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b208520000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table/>
+<target_name>DevOpGlob</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>4e94f55ca403001054d474b1eb4b7869</update_guid>
+<update_guid_history>4e94f55ca403001054d474b1eb4b7869:-2033963853,0f8751c08643001005be9a553cd4d33c:-2033963853</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_478711c0db430010ab0a4870399619c6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>478711c0db430010ab0a4870399619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table.x_339650_devopglob.user</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_security_acl display_value="x_339650_devopglob_table">838711c0db430010ab0a4870399619c3</sys_security_acl><sys_update_name>sys_security_acl_role_478711c0db430010ab0a4870399619c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><sys_user_role display_value="x_339650_devopglob.user" name="x_339650_devopglob.user">768711c0db430010ab0a487039961974</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>391398657</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>35a4395cdb030010ab0a4870399619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207330000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table.x_339650_devopglob.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>4694f55c640300103e6eca7343194357</update_guid>
+<update_guid_history>4694f55c640300103e6eca7343194357:391398657,878711c04c43001005b95de329c3b2c8:391398657</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_078711c0db430010ab0a4870399619c9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_339650_devopglob_table</description><name>x_339650_devopglob_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>078711c0db430010ab0a4870399619c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_security_acl_078711c0db430010ab0a4870399619c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1675365612</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>39a4395cdb030010ab0a4870399619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b206c10000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>ca94b15c140300105322092fafc56598</update_guid>
+<update_guid_history>ca94b15c140300105322092fafc56598:1675365612,078711c0d643001082b93cd2a0ff83cb:1675365612</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_8b8751c0db430010ab0a487039961939</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DevOpGlob">be8711c0db430010ab0a487039961971</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>DevOpGlob Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_339650_devopglob_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_339650_devopglob.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b8751c0db430010ab0a487039961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOpGlob Table</sys_name><sys_overrides/><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_app_module_8b8751c0db430010ab0a487039961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><timeline_page/><title>DevOpGlob Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1523408358</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>3da4395cdb030010ab0a4870399619e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b2083a0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>DevOpGlob Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>c294f55c3703001084b6106e089d0968</update_guid>
+<update_guid_history>c294f55c3703001084b6106e089d0968:1523408358,038751c03f4300107ee7f0a01855923b:1523408358</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_478751c0db430010ab0a487039961905</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>DevOpGlob Table</answer><button_label/><dependent_value/><element/><name>DevOpGlob Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">7a601aa6e131330078502406b6333345</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>478751c0db430010ab0a487039961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOpGlob Table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_wizard_answer_478751c0db430010ab0a487039961905</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><table/><target_url>x_339650_devopglob_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>-815393506</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>3da4395cdb030010ab0a4870399619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b2078b0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table/>
+<target_name>DevOpGlob Table</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>c294f55cfd03001079594d9cd8d9d45d</update_guid>
+<update_guid_history>c294f55cfd03001079594d9cd8d9d45d:-815393506,bcb795c0644300105a7b17a111ca9c4b:-815393506</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_be8711c0db430010ab0a487039961971</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>DevOpGlob</name><order/><roles>x_339650_devopglob.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be8711c0db430010ab0a487039961971</sys_id><sys_mod_count>1</sys_mod_count><sys_name>DevOpGlob</sys_name><sys_overrides/><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_app_application_be8711c0db430010ab0a487039961971</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:18</sys_updated_on><title>DevOpGlob</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>443934219</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>71a4395cdb030010ab0a4870399619e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b208650000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table/>
+<target_name>DevOpGlob</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>8294f55cb9030010b29e0239f0e7a96b</update_guid>
+<update_guid_history>8294f55cb9030010b29e0239f0e7a96b:443934219,4b8711c0dd430010a544074185d3aabd:443934219,b28711c0e64300106b28abb470979173:257310981</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_c38711c0db430010ab0a4870399619e0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_339650_devopglob_table</description><name>x_339650_devopglob_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>c38711c0db430010ab0a4870399619e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_security_acl_c38711c0db430010ab0a4870399619e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>966049558</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>71a4395cdb030010ab0a4870399619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b206f30000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c694b15c78030010d5da100fc7023b9c</update_guid>
+<update_guid_history>c694b15c78030010d5da100fc7023b9c:966049558,c38711c0f9430010c1cc5133359085e2:966049558</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_339650_devopglob_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="DevOpGlob Table" language="en" table="x_339650_devopglob_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>DevOpGlob Table</label><language>en</language><name>x_339650_devopglob_table</name><plural>DevOpGlob Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>438751c0db430010ab0a487039961907</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOpGlob Table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_documentation_x_339650_devopglob_table__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1006969484</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>75a4395cdb030010ab0a4870399619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207200000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>DevOpGlob Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>8e94f55c75030010a3cf71e53e6b5e55</update_guid>
+<update_guid_history>8e94f55c75030010a3cf71e53e6b5e55:1006969484,438751c0254300109dadc1363a614937:1006969484</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_e68715ccdb030010ab0a48703996198a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="DevOpGlob">be8711c0db430010ab0a487039961971</menu><name>DevOpGlob</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_339650_devopglob</scope><scoped_administration>false</scoped_administration><short_description/><source>x_339650_devopglob</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:18</sys_created_on><sys_id>e68715ccdb030010ab0a48703996198a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:18</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_339650_devopglob.user" name="x_339650_devopglob.user">768711c0db430010ab0a487039961974</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>355540478</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>79a4395cdb030010ab0a4870399619e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b206a20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table/>
+<target_name>DevOpGlob</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>4294b15c22030010c94a012979268797</update_guid>
+<update_guid_history>4294b15c22030010c94a012979268797:355540478,368711c097430010eca3a1b5ff94a3ba:355540478</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_768711c0db430010ab0a487039961974</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_339650_devopglob.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:18</sys_created_on><sys_id>768711c0db430010ab0a487039961974</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob.user</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_user_role_768711c0db430010ab0a487039961974</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:18</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-985810945</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>79a4395cdb030010ab0a4870399619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207f80000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table/>
+<target_name>x_339650_devopglob.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>0294f55c980300105f6b579feaf81764</update_guid>
+<update_guid_history>0294f55c980300105f6b579feaf81764:-985810945,7cb795c0de4300108f870fd2a501b94e:-985810945,328711c0cb430010fb9b58e07abbb877:1464750969</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_cf8711c0db430010ab0a4870399619cb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>cf8711c0db430010ab0a4870399619cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table.x_339650_devopglob.user</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_security_acl display_value="x_339650_devopglob_table">078711c0db430010ab0a4870399619c9</sys_security_acl><sys_update_name>sys_security_acl_role_cf8711c0db430010ab0a4870399619cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><sys_user_role display_value="x_339650_devopglob.user" name="x_339650_devopglob.user">768711c0db430010ab0a487039961974</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-2018830701</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>7da4395cdb030010ab0a4870399619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207680000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table.x_339650_devopglob.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>0694f55c3703001096d674ff1c8b965b</update_guid>
+<update_guid_history>0694f55c3703001096d674ff1c8b965b:-2018830701,cb8711c0434300106226b9de28b497cd:-2018830701</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_339650_devopglob_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_339650_devopglob_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_339650_devopglob_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-02-13 20:29:19&lt;/sys_created_on&gt;&lt;sys_id&gt;878711c0db430010ab0a4870399619e5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_339650_devopglob_table&lt;/sys_name&gt;&lt;sys_package display_value="DevOpGlob" source="x_339650_devopglob"&gt;e68715ccdb030010ab0a48703996198a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DevOpGlob"&gt;e68715ccdb030010ab0a48703996198a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_339650_devopglob_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-02-13 20:29:19&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1548716035</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>b1a4395cdb030010ab0a4870399619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b208290000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>DevOpGlob Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>8e94f55c5f0300106f767f981549a366</update_guid>
+<update_guid_history>8e94f55c5f0300106f767f981549a366:-1548716035,8f8751c09f43001050d12e52152caa35:-1548716035</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_72599904db430010ab0a487039961923</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="72599904db430010ab0a487039961923" sys_domain="global" table="x_339650_devopglob_table" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>bc84755cdb030010ab0a4870399619ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>3084755cdb030010ab0a4870399619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>7884755cdb030010ab0a4870399619b8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>f884755cdb030010ab0a4870399619b8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>7c84755cdb030010ab0a4870399619b8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>fc84755cdb030010ab0a4870399619b8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>7084755cdb030010ab0a4870399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>f084755cdb030010ab0a4870399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>7484755cdb030010ab0a4870399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>f484755cdb030010ab0a4870399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>7884755cdb030010ab0a4870399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>knowledge</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 17:14:20</sys_created_on><sys_id>f884755cdb030010ab0a4870399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_339650_devopglob_table" sys_domain="global" view="Default view">72599904db430010ab0a487039961923</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 17:14:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_339650_devopglob_table</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:37:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>72599904db430010ab0a487039961923</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table</sys_name><sys_overrides/><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_ui_section_72599904db430010ab0a487039961923</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:37:14</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1446295529</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>b5a4395cdb030010ab0a4870399619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207d80000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>DevOpGlob Table</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>4694f55c25030010be58014531b4c762</update_guid>
+<update_guid_history>4694f55c25030010be58014531b4c762:1446295529,7084755c1d0300101e13997a1a4c25bc:1446295529,0144715cb20300106f7903a4ec8947fb:1016996305,f7691d04d14300109523fbedf3b1692b:-226589835,67691d04ce430010ea838c0d1b3bc124:-1655278828</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_8f8711c0db430010ab0a4870399619e2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>8f8711c0db430010ab0a4870399619e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table.x_339650_devopglob.user</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_security_acl display_value="x_339650_devopglob_table">c38711c0db430010ab0a4870399619e0</sys_security_acl><sys_update_name>sys_security_acl_role_8f8711c0db430010ab0a4870399619e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><sys_user_role display_value="x_339650_devopglob.user" name="x_339650_devopglob.user">768711c0db430010ab0a487039961974</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-55626831</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>b9a4395cdb030010ab0a4870399619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207560000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table.x_339650_devopglob.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ce94f55c6b03001095c393f864780b59</update_guid>
+<update_guid_history>ce94f55c6b03001095c393f864780b59:-55626831,8b8711c003430010d04cf3a3a33b80e4:-55626831</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_838711c0db430010ab0a4870399619c3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_339650_devopglob_table</description><name>x_339650_devopglob_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>838711c0db430010ab0a4870399619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_security_acl_838711c0db430010ab0a4870399619c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1362283832</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>bda4395cdb030010ab0a4870399619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b206e20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c294b15cad030010c5c32ab27744b19b</update_guid>
+<update_guid_history>c294b15cad030010c5c32ab27744b19b:1362283832,4b8711c0794300101ac3ab4e54a674c5:1362283832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_4b8751c0db430010ab0a48703996193d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DevOpGlob">8f8751c0db430010ab0a48703996193b</application><filter/><name>DevOpGlob Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_339650_devopglob.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4b8751c0db430010ab0a48703996193d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOpGlob Table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_ui_module_4b8751c0db430010ab0a48703996193d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><table>x_339650_devopglob_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>1060618885</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>f1a4395cdb030010ab0a4870399619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207ab0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>DevOpGlob Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>4294f55cd60300105dfec01abb15d15f</update_guid>
+<update_guid_history>4294f55cd60300105dfec01abb15d15f:1060618885,0b8751c044430010769f5c292ceed23e:1060618885</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_8b8711c0db430010ab0a4870399619dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>8b8711c0db430010ab0a4870399619dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table.x_339650_devopglob.user</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_security_acl display_value="x_339650_devopglob_table">0b8711c0db430010ab0a4870399619ce</sys_security_acl><sys_update_name>sys_security_acl_role_8b8711c0db430010ab0a4870399619dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><sys_user_role display_value="x_339650_devopglob.user" name="x_339650_devopglob.user">768711c0db430010ab0a487039961974</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1308747286</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>f5a4395cdb030010ab0a4870399619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b207440000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table.x_339650_devopglob.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>8a94f55ce10300105cf52f983afc7c58</update_guid>
+<update_guid_history>8a94f55ce10300105cf52f983afc7c58:-1308747286,878711c075430010e3b82785f0b7fedf:-1308747286</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_0b8711c0db430010ab0a4870399619ce</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_339650_devopglob_table</description><name>x_339650_devopglob_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>0b8711c0db430010ab0a4870399619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_security_acl_0b8711c0db430010ab0a4870399619ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1796293544</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>f9a4395cdb030010ab0a4870399619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b206d30000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>x_339650_devopglob_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>ce94b15c170300102f29d3a5a2d2bd99</update_guid>
+<update_guid_history>ce94b15c170300102f29d3a5a2d2bd99:1796293544,0b8711c0b64300108bc8bd43b684acd0:1796293544</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_2a8715ccdb030010ab0a48703996198a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Devopglob Table</label><live_feed_enabled>false</live_feed_enabled><name>x_339650_devopglob_table</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Task" name="task">f2601aa6e131330078502406b6333344</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:18</sys_created_on><sys_id>2a8715ccdb030010ab0a48703996198a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOpGlob Table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>sys_db_object_2a8715ccdb030010ab0a48703996198a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:18</sys_updated_on><update_access>false</update_access><user_role display_value="x_339650_devopglob.user" name="x_339650_devopglob.user">768711c0db430010ab0a487039961974</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-499584737</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>fda4395cdb030010ab0a4870399619e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b2070b0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table>x_339650_devopglob_table</table>
+<target_name>Devopglob Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>c694f55c8e03001082f96d55fce49a54</update_guid>
+<update_guid_history>c694f55c8e03001082f96d55fce49a54:-499584737,b4b795c0b94300102b58ca5742adbb43:-499584737,478751c04b43001057e4930ef0ae7038:1808189663</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_838751c0db430010ab0a48703996190e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_339650_devopglob_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-13 20:29:19</sys_created_on><sys_id>838751c0db430010ab0a48703996190e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_339650_devopglob_table</sys_name><sys_package display_value="DevOpGlob" source="x_339650_devopglob">e68715ccdb030010ab0a48703996198a</sys_package><sys_policy/><sys_scope display_value="DevOpGlob">e68715ccdb030010ab0a48703996198a</sys_scope><sys_update_name>ua_table_licensing_config_838751c0db430010ab0a48703996190e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-13 20:29:19</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-1475613795</payload_hash>
+<remote_update_set display_value="DevOpGlob - 1.0.0">79a4395cdb030010ab0a4870399619e4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-02-14 17:14:57</sys_created_on>
+<sys_id>fda4395cdb030010ab0a4870399619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17044b2080f0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-02-14 17:14:57</sys_updated_on>
+<table/>
+<target_name>x_339650_devopglob_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>8694f55c2f0300102ed03c9e5570de65</update_guid>
+<update_guid_history>8694f55c2f0300102ed03c9e5570de65:-1475613795,038751c049430010c589ea322ac7770f:-1475613795</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
